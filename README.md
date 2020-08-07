@@ -21,3 +21,4 @@ Dapp ideas for 2020. Simple.
 |**IPFS powered Cryptovoxels**| Pay-per-use tool that lets anyone put in a transaction hash from a packaged transaction and see which step caused the error. |VR, NFTs|||
 |**Quadratic funding for GitCoin**| Smart contract for quadratic funding for GitCoin. ||||
 |**Pay-per-view encrypted files**| A Dapp that requires a crypto payment to decrypt the content. (will need to interact with another party that keeps the key private until the payment happens). Should use payment channels for speed. |Payments|||
+|**UI for Flash Loans**| No-code flash loan GUI or doing something with flash loans.|DeFi|Maybe|https://furucombo.app/|
