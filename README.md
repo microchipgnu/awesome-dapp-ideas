@@ -27,4 +27,8 @@ Dapp ideas for 2020. Simple.
 
 
 
+## Raw data
+I am currently adding ideas from few places I find on the internet. I want a centralized place for all these decentralized ideas.
 
+- [HackFS ideas](https://www.notion.so/One-Hundred-Hackathon-Ideas-d981443bfd7844658b94c17f7df654b3)
+- [hack.money ideas](https://docs.google.com/spreadsheets/d/1fXmwGqMuo1CxRPYN4bD5rb3yAUXMwPaPuLVWO8_ftds/edit#gid=0)
