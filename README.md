@@ -22,3 +22,5 @@ Dapp ideas for 2020. Simple.
 |**Quadratic funding for GitCoin**| Smart contract for quadratic funding for GitCoin. ||||
 |**Pay-per-view encrypted files**| A Dapp that requires a crypto payment to decrypt the content. (will need to interact with another party that keeps the key private until the payment happens). Should use payment channels for speed. |Payments|||
 |**UI for Flash Loans**| No-code flash loan GUI or doing something with flash loans.|DeFi|Maybe|https://furucombo.app/|
+|**Automatically back up the sites you like**| Brave extension to automatically back up the sites you like + visit a lot. can swap BAT for FIL w/ DeFi tools |Media|||
+
